@@ -1,0 +1,2 @@
+# static-deploy
+quick deploy 
